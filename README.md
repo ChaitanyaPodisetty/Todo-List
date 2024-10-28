@@ -8,6 +8,7 @@ This simple yet effective tool helps you manage your tasks efficiently. With an 
 . Delete Tasks: Remove tasks you no longer need to keep your list tidy.
 . Persistent Storage: Your tasks are saved in the browser's local storage, so you can pick up where you left off.
 
+
 #How It Works
 The application uses JavaScript to manage the tasks, storing them in the browser's local storage for persistence. When you add or delete a task, the changes are saved automatically.
 
