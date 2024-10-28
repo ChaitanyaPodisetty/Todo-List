@@ -16,12 +16,17 @@ The application uses JavaScript to manage the tasks, storing them in the browser
 
 # Key Functions
 . Adding Tasks: Users can input their tasks, which are then added to the list and displayed on the page.
+
 . Updating Task Status: Clicking on a checkbox toggles the completion status of a task.
+
 . Deleting Tasks: Each task has a delete icon to remove it from the list.
+
 
 # Technologies Used
 -> HTML
+
 -> CSS
+
 -> JavaScript
 
 # Feel free to explore and make the most out of your task management experience! Happy organizing! 🌟
